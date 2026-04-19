@@ -3,10 +3,12 @@ Awesome GPTs
 
 A curated list of awesome GPTs
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Education](#education)
 - [For Developers](#for-developers)
 - [For Fun](#for-fun)
 - [Lifestyle](#lifestyle)
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [Productivity](#productivity)
 - [Writing](#writing)
 
