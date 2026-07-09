@@ -38,6 +38,7 @@ Writing
 - [Instructional Design and Technology Expert](https://chat.openai.com/g/g-32zI7E5h0-instructional-design-and-technology-expert)- A master of instructional design and technology.
 - [Paraphraser & Proofreader](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version) - Expert in sentence refinement.
 - [Prompty](https://chat.openai.com/g/g-aZLV4vji6-prompty) - A professional prompt engineer who helps you optimize your GPT-prompts with state-of-the-art techniques.
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 
 
