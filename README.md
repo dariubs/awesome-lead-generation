@@ -69,6 +69,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Intercom](https://www.intercom.com/) - Customer messaging platform with lead-qualifying bots.
 - [Tidio](https://www.tidio.com/) - Live chat and chatbot builder for small-to-mid-size sites.
 - [Landbot](https://landbot.io/) - No-code conversational chatbot builder for lead qualification.
+- [Workforce Wave](https://www.workforcewave.com/) - AI voice agent that answers inbound calls, qualifies callers, and captures leads for small businesses.
 
 ## CRM & Pipeline Management
 
