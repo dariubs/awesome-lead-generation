@@ -44,6 +44,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Lemlist](https://www.lemlist.com/) - Personalized cold email sequences with image/video personalization.
 - [Smartlead](https://www.smartlead.ai/) - Multi-inbox cold email infrastructure built for agencies and scale.
 - [Outreach](https://www.outreach.io/) - Enterprise sales engagement platform.
+- [OutreachAgent](https://outreachagent.dev/) - API-first email infrastructure for AI agents with inboxes, reply-aware workflows, webhooks, and SDKs.
 - [Salesloft](https://salesloft.com/) - Sales engagement and cadence management.
 - [Mailshake](https://mailshake.com/) - Simple cold email and follow-up automation.
 - [Woodpecker](https://woodpecker.co/) - Cold email tool geared toward agencies and B2B teams.
