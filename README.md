@@ -97,6 +97,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Dreamdata](https://dreamdata.io/) - B2B revenue attribution across the full customer journey.
 - [Google Analytics](https://analytics.google.com/) - Free web analytics, still a baseline for most funnels.
 - [Hotjar](https://www.hotjar.com/) - Heatmaps and session recordings for conversion diagnosis.
+- [Osservatorio Cold Email Italia](https://clientium.it/osservatorio/) - Open dataset of 723 Italian B2B cold email campaigns (3.7M emails) with reply-rate benchmarks by sector, CC BY 4.0.
 
 ## SEO & Content-Led Growth
 
