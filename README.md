@@ -90,6 +90,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Orum](https://www.orum.com/) - AI-assisted parallel dialer for outbound sales teams.
 - [Kixie](https://www.kixie.com/) - Power dialer and SMS integrated with popular CRMs.
 - [Aircall](https://aircall.io/) - Cloud phone system with sales-dialer features.
+- [Hermes](https://www.buildwithhermes.com/) - White-label AI voice agent platform with a built-in campaign dialer, CRM, and usage billing, aimed at agencies running outbound calling for their clients.
 
 ## Analytics & Attribution
 
