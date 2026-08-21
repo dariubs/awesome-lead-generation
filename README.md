@@ -104,6 +104,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Semrush](https://www.semrush.com/) - SEO, content, and competitive research platform.
 - [Surfer SEO](https://surferseo.com/) - On-page content optimization against ranking factors.
 - [Clearscope](https://www.clearscope.io/) - Content optimization for search intent and topical coverage.
+- [Fresh SEM AI Website Audit](https://freshsem.com/audit) - Paid SEO and AI-readiness audit service for technical, content, and conversion issues.
 
 ## Paid Acquisition
 
