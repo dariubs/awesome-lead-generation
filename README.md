@@ -40,6 +40,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 
 ## Email Outreach & Sequencing
 
+- [Deeplead](https://www.deeplead.io/) - B2B prospecting, AI-personalized email outreach, and managed sending inboxes (paid).
 - [Instantly](https://instantly.ai/) - Cold email sending at scale with inbox rotation and warmup.
 - [Lemlist](https://www.lemlist.com/) - Personalized cold email sequences with image/video personalization.
 - [Smartlead](https://www.smartlead.ai/) - Multi-inbox cold email infrastructure built for agencies and scale.
