@@ -54,6 +54,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Expandi](https://expandi.io/) - Cloud-based LinkedIn automation with safety-focused sending limits.
 - [Dux-Soup](https://dux-soup.com/) - Browser-based LinkedIn prospecting and automation tool.
 - [Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator) - LinkedIn's native prospecting and lead-list tool.
+- [Omentir](https://omentir.com/) - Open-source (MIT) AI workspace for LinkedIn prospecting that scores leads, drafts messages, and runs paced campaigns.
 
 ## Landing Pages, Forms & Lead Capture
 
