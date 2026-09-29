@@ -136,6 +136,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Sales Hacker](https://www.saleshacker.com/) - Tactical sales and SDR-focused articles.
 - [Cold Email Academy](https://www.coldemail.com/) - Cold outreach deliverability and copywriting tactics.
 - [Demand Curve](https://www.demandcurve.com/) - Growth marketing tactics newsletter and playbooks.
+- [Outreach Benchmarks](https://outreachbenchmarks.com/) - Source-linked outreach software profiles, buying guides, and a downloadable inventory.
 
 ## Podcasts
 
