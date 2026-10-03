@@ -62,6 +62,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Typeform](https://www.typeform.com/) - Conversational forms and surveys for lead capture.
 - [OptinMonster](https://optinmonster.com/) - Popup and on-site conversion tools for capturing visitors as leads.
 - [Leadpages](https://www.leadpages.com/) - Landing pages and lead-capture widgets for small businesses.
+- [Gatedleads](https://gatedleads.com/) - Lead magnet page builder that shows part of your content and gates the rest behind an email form.
 
 ## Chatbots & Conversational Marketing
 
