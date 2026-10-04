@@ -104,6 +104,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Semrush](https://www.semrush.com/) - SEO, content, and competitive research platform.
 - [Surfer SEO](https://surferseo.com/) - On-page content optimization against ranking factors.
 - [Clearscope](https://www.clearscope.io/) - Content optimization for search intent and topical coverage.
+- [AI eBook Pro](https://aiebookpro.com/) - AI eBook generator for lead magnets: one sentence to a full eBook with cover, exported as PDF, EPUB or DOCX.
 
 ## Paid Acquisition
 
