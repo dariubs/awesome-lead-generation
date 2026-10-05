@@ -64,6 +64,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Leadpages](https://www.leadpages.com/) - Landing pages and lead-capture widgets for small businesses.
 
 ## Chatbots & Conversational Marketing
+- [AI Group Call](https://aigroupcall.app) - Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript.
 
 - [Drift](https://www.drift.com/) - Conversational marketing and chat-based lead routing.
 - [Intercom](https://www.intercom.com/) - Customer messaging platform with lead-qualifying bots.
