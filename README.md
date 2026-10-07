@@ -118,6 +118,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Bowtie Funnel](https://winningbydesign.com/) - Revenue-model concept from Winning by Design that extends the funnel past the sale into expansion.
 - [Gap Selling](https://gapselling.com/) - Consultative sales framework focused on problem diagnosis over pitching.
 - [Challenger Sale](https://www.gartner.com/en/sales/insights/challenger-sale) - Framework built on teaching, tailoring, and taking control of the sales conversation.
+- [FirstPass SaaS homepage clarity self-check](https://mmxfq.github.io/firstpass-site/checklist.html) - Browser-based checklist for reviewing positioning, proof, risk, and call-to-action clarity.
 
 ## Books
 
