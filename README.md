@@ -37,6 +37,8 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Lusha](https://www.lusha.com/) - Contact and company data with a browser extension for prospecting.
 - [Cognism](https://www.cognism.com/) - Compliant B2B contact data with strong EMEA phone coverage.
 - [RocketReach](https://rocketreach.co/) - Contact lookup by name, company, or LinkedIn profile.
+- [ATS Hiring Signals](https://apify.com/goldenrod_serrano/ats-hiring-signals) - Apify Actor that lists open jobs and a hiring score per company from 6 ATS job boards (paid, per result).
+- [Workday Hiring Signals](https://apify.com/goldenrod_serrano/workday-hiring-signals) - Apify Actor that lists open jobs on Workday career sites by country, with a hiring summary (paid, per result).
 
 ## Email Outreach & Sequencing
 
