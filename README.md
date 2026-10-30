@@ -36,6 +36,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Hunter](https://hunter.io/) - Email finder and verifier.
 - [Lusha](https://www.lusha.com/) - Contact and company data with a browser extension for prospecting.
 - [Cognism](https://www.cognism.com/) - Compliant B2B contact data with strong EMEA phone coverage.
+- [LLCDrop](https://llcdrop.com/) - Florida business filings and owner lookup, with daily new-filing lists by county and city.
 - [RocketReach](https://rocketreach.co/) - Contact lookup by name, company, or LinkedIn profile.
 
 ## Email Outreach & Sequencing
