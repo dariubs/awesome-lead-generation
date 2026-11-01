@@ -37,6 +37,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Lusha](https://www.lusha.com/) - Contact and company data with a browser extension for prospecting.
 - [Cognism](https://www.cognism.com/) - Compliant B2B contact data with strong EMEA phone coverage.
 - [RocketReach](https://rocketreach.co/) - Contact lookup by name, company, or LinkedIn profile.
+- [GTMStack Tracker](https://ajaynallavelli.github.io/gtmstack-tracker/) - Tracks published plan prices and dated price changes for 39 prospecting, enrichment, and cold email tools.
 
 ## Email Outreach & Sequencing
 
