@@ -28,6 +28,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [License](#license)
 
 ## Prospecting & Data Enrichment
+- [OpenSparta](https://opensparta.com/en) - Telegram lead research workspace with paid community monitoring, ranked buying requests, and original-message evidence.
 
 - [Apollo.io](https://www.apollo.io/) - Prospecting database with built-in outreach sequencing.
 - [Clay](https://www.clay.com/) - Combines dozens of data sources with AI enrichment and waterfalls in a spreadsheet-like interface.
