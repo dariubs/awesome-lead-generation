@@ -50,6 +50,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 
 ## LinkedIn & Social Selling
 
+- [Revenue Scout](https://revenuescout.ai/) - Finds leads on seven social platforms. You review and post reply drafts yourself. Free tier and paid plans.
 - [Waalaxy](https://www.waalaxy.com/) - LinkedIn + email automation sequences.
 - [Expandi](https://expandi.io/) - Cloud-based LinkedIn automation with safety-focused sending limits.
 - [Dux-Soup](https://dux-soup.com/) - Browser-based LinkedIn prospecting and automation tool.
