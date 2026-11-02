@@ -34,6 +34,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [ZoomInfo](https://www.zoominfo.com/) - Large B2B contact and intent-data platform, enterprise-focused.
 - [Clearbit](https://clearbit.com/) - Company and person enrichment API, now part of HubSpot's Breeze Intelligence.
 - [Hunter](https://hunter.io/) - Email finder and verifier.
+- [CheckMail1](https://checkmail1.com/) - Email verification API for bulk list cleaning; flags disposable, role-based and catch-all addresses; free credits, no credit card.
 - [Lusha](https://www.lusha.com/) - Contact and company data with a browser extension for prospecting.
 - [Cognism](https://www.cognism.com/) - Compliant B2B contact data with strong EMEA phone coverage.
 - [RocketReach](https://rocketreach.co/) - Contact lookup by name, company, or LinkedIn profile.
