@@ -100,6 +100,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 
 ## SEO & Content-Led Growth
 
+- [Akii: SEO & AI Search Optimizer](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) - Free MIT-licensed Claude Code plugin for SEO audits, content plans, schema markup and link checks.
 - [Ahrefs](https://ahrefs.com/) - SEO research suite for keyword and content-gap analysis.
 - [Semrush](https://www.semrush.com/) - SEO, content, and competitive research platform.
 - [Surfer SEO](https://surferseo.com/) - On-page content optimization against ranking factors.
