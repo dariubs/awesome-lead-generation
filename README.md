@@ -111,6 +111,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [LinkedIn Ads](https://business.linkedin.com/marketing-solutions/ads) - B2B-targeted advertising by job title, company, and industry.
 - [Meta Ads Manager](https://www.facebook.com/business/ads) - Facebook/Instagram advertising, strong for B2C and top-of-funnel B2B.
 - [Capterra / G2 Ads](https://www.g2.com/) - Intent-based advertising on software review/comparison platforms.
+- [Google Ads Transparency MCP](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) - Open-source MCP server that lists a competitor's Google ads with shown dates (runs on a paid Apify account).
 
 ## Frameworks & Playbooks
 
