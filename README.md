@@ -148,6 +148,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [HubSpot Academy](https://academy.hubspot.com/) - Free certifications in inbound marketing, sales, and CRM.
 - [Reforge](https://www.reforge.com/) - Advanced growth and acquisition programs (paid, practitioner-led).
 - [Winning by Design courses](https://winningbydesign.com/) - Sales-process and revenue-architecture training.
+- [TryLeadPull Sales Playbook](https://tryleadpull.com/playbook) - Free 7-chapter B2B prospecting course covering ICP, lead lists, email finding, cold email, deliverability and automation.
 
 ## Communities
 
