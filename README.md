@@ -54,6 +54,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Expandi](https://expandi.io/) - Cloud-based LinkedIn automation with safety-focused sending limits.
 - [Dux-Soup](https://dux-soup.com/) - Browser-based LinkedIn prospecting and automation tool.
 - [Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator) - LinkedIn's native prospecting and lead-list tool.
+- [SignalSeek](https://signalseek.cc/) - Reddit lead monitoring that scores threads and drafts replies you post yourself.
 
 ## Landing Pages, Forms & Lead Capture
 
