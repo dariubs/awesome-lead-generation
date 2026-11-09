@@ -37,6 +37,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Lusha](https://www.lusha.com/) - Contact and company data with a browser extension for prospecting.
 - [Cognism](https://www.cognism.com/) - Compliant B2B contact data with strong EMEA phone coverage.
 - [RocketReach](https://rocketreach.co/) - Contact lookup by name, company, or LinkedIn profile.
+- [Panda Federation Tools](https://github.com/pandadad0214/panda-federation-tools) - Open-source MCP server with 32 public-data tools for hiring signals, enrichment, local leads, building permits, new Florida and Texas businesses, IRS nonprofits, clinical trials and more.
 
 ## Email Outreach & Sequencing
 
