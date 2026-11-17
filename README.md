@@ -47,6 +47,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Salesloft](https://salesloft.com/) - Sales engagement and cadence management.
 - [Mailshake](https://mailshake.com/) - Simple cold email and follow-up automation.
 - [Woodpecker](https://woodpecker.co/) - Cold email tool geared toward agencies and B2B teams.
+- [warmed-up.email](https://warmed-up.email/) - Turnkey pre-warmed Google Workspace and Microsoft 365 mailbox fleets with automated deliverability ramp-up.
 
 ## LinkedIn & Social Selling
 
