@@ -96,6 +96,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [HockeyStack](https://hockeystack.com/) - B2B marketing analytics and revenue attribution.
 - [Dreamdata](https://dreamdata.io/) - B2B revenue attribution across the full customer journey.
 - [Google Analytics](https://analytics.google.com/) - Free web analytics, still a baseline for most funnels.
+- [Historical Snapshots](https://kayabyte.dev/hubspot/historical-snapshots/) - Point-in-time sales pipeline snapshotting and deal stage velocity analytics for HubSpot CRM.
 - [Hotjar](https://www.hotjar.com/) - Heatmaps and session recordings for conversion diagnosis.
 
 ## SEO & Content-Led Growth
