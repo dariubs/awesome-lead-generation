@@ -37,6 +37,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Lusha](https://www.lusha.com/) - Contact and company data with a browser extension for prospecting.
 - [Cognism](https://www.cognism.com/) - Compliant B2B contact data with strong EMEA phone coverage.
 - [RocketReach](https://rocketreach.co/) - Contact lookup by name, company, or LinkedIn profile.
+- [BetterSites](https://apify.com/jg62802/bettersites) - Local business discovery and bulk website tech-stack, DNS/DMARC, SSL, and SEO auditor on Apify.
 
 ## Email Outreach & Sequencing
 
