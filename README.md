@@ -54,6 +54,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Expandi](https://expandi.io/) - Cloud-based LinkedIn automation with safety-focused sending limits.
 - [Dux-Soup](https://dux-soup.com/) - Browser-based LinkedIn prospecting and automation tool.
 - [Sales Navigator](https://business.linkedin.com/sales-solutions/sales-navigator) - LinkedIn's native prospecting and lead-list tool.
+- [twtData](https://twtdata.com/download-twitter-followers/) - Export the followers of any public X account to CSV (bio, location, follower count, website) as a social-selling prospect list.
 
 ## Landing Pages, Forms & Lead Capture
 
