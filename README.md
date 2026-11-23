@@ -31,6 +31,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 
 - [Apollo.io](https://www.apollo.io/) - Prospecting database with built-in outreach sequencing.
 - [Clay](https://www.clay.com/) - Combines dozens of data sources with AI enrichment and waterfalls in a spreadsheet-like interface.
+- [Skool Community Scraper](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/servers/skool-community-mcp) - Search Skool communities by keyword. Members, price, rating and estimated monthly revenue for each, plus daily growth tracking.
 - [ZoomInfo](https://www.zoominfo.com/) - Large B2B contact and intent-data platform, enterprise-focused.
 - [Clearbit](https://clearbit.com/) - Company and person enrichment API, now part of HubSpot's Breeze Intelligence.
 - [Hunter](https://hunter.io/) - Email finder and verifier.
