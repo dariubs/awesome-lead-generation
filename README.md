@@ -47,6 +47,7 @@ Lead generation spans prospecting, outreach, content, paid acquisition, and conv
 - [Salesloft](https://salesloft.com/) - Sales engagement and cadence management.
 - [Mailshake](https://mailshake.com/) - Simple cold email and follow-up automation.
 - [Woodpecker](https://woodpecker.co/) - Cold email tool geared toward agencies and B2B teams.
+- [SoloRiff](https://soloriff.com/) - AI sales agent that finds B2B buyers, verifies addresses, writes and follows up, and books meetings.
 
 ## LinkedIn & Social Selling
 
